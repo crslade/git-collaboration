@@ -1,0 +1,11 @@
+My final project 
+
+
+THOUGHT SNIPPET FOR MY FINAL PROJECT -
+
+Hope to make a website that imitates social media fucntionalities, this idea might change or become more fleshed out later
+for now, this is what comes immedietly to my mind but this is subject to change.
+
+I want to make a very simple website that kinda functions like twitter or reddit. I want users to make posts for now consisting of strings and images. 
+Users may also comment on it. Entities consist of users, posts, daily quotes. These will be the sections you can access. I am writing the baseline, I would like to employ 
+creativity of course and go beyond that but setting a baseline this is what I would like to acheive.
