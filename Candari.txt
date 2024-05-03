@@ -1,0 +1,3 @@
+My name is Isaac Candari. I am taking 490R this semester.
+
+My final project idea is to create a website or app like airbnb, where you can list your house/apartment and people can sign up to stay there.
