@@ -1,0 +1,10 @@
+The name's Turner, Ammon Turner. I'll have a the chocolate milk. Shaken, not stirred. 007
+
+I hope to learn a good deal about API's. I have a conceptual understanding of them, I know they are really useful. I haven't spent much time working with them though. I have followed some tutorials a long time ago working with the Goodreads and IMDB API's, but I'm looking forward to building something with my own API's. I'm sure making my own will give me a much better understanding of the technologies involved.
+
+Final Project Idea:
+I want to create a site that will allow people to share their availabilty to do an activity during a week. The idea stems from problems I've had setting up times to play Dungeons and Dragons and similar games with friends. If we all just knew when we would be available in a week we could more easily find a time that works.
+
+I entities I would need would include Users, Activities, and Schedules (names subject to change). Users should be self-explaintory. Activities would represent a week when the group of friends wants to do a specific activity, such as DND, a basketball tournament, or a study session, basically any activity where you really want everyone there at the same time. Schedules would be each user's availablity for a specific activity.
+
+I think this should fulfill the requirements for the class. I've thought of other things I could do to add functionality, such as offer an appointment system for more one-on-one type activities or an open/shared calendar to allow groups to see upcoming events that would involve everyone in the group. (That's another problem I've faced, specifically with my family, is wanting a single calendar where I can see things like upcoming piano recitals and family parties at a relative's house). Those are probably things I can add over the summer break though to pad out my portfolio.
